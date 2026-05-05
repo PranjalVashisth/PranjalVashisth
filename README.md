@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Vashisth</h1>
-<h3 align="center">Software Engineer · Java & Spring Boot · AI/ML Integrations</h3>
+<h3 align="center">Software Engineer · Python & FastApi , Java & Spring Boot · AI/ML Integrations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalvashisth&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalvashisth" /> </p>
 
