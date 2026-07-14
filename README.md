@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently **open to new opportunities**
 - 🌱 I'm currently learning **Distributed Systems & LLM Agents**
-- 💬 Ask me about **Java, Spring Boot, FastAPI, AI integrations**
+- 💬 Ask me about **Python, FastAPI, Djagno, Java, SptingBoot, AI integrations**
 - 📫 How to reach me: **pranjalvashisth14@gmail.com**
 - 📄 Know about my experiences: [Resume](https://linkedin.com/in/pranjal-vashisth)
 
